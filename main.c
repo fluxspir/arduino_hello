@@ -1,5 +1,5 @@
-#include <serialio.h>
 #include <wiring_private.h>
+#include <serialio.h>
 
 void
 setup_atmega328p_serial(serial *port)
